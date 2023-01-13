@@ -2,7 +2,7 @@
 アニメに登場するLINE風SNSの名称一覧です。    
 PR is welcome!!
 
-## Contents
+## Names
 |アニメ|名称|
 |---|---|
 |STEINS;GATE 0|RINE|
