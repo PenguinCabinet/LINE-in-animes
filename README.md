@@ -1,5 +1,5 @@
 # SNS in animes
-アニメに登場する架空のSNS名称一覧です。    
+アニメに登場する実際のSNSの言い換え一覧です。    
 PR is welcome!!
 
 ## LINE
@@ -12,3 +12,8 @@ PR is welcome!!
 |アニメ|名称|
 |---|---|
 |ぼっち・ざ・ろっく|イソスタ|
+
+## niconico
+|アニメ|名称|
+|---|---|
+|CHAOS;CHILD|ニコニヤ|
